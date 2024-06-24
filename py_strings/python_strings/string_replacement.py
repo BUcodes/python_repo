@@ -1,5 +1,7 @@
 ''' 
-A program that queries two strings from the user. The program then replaces all the occurrences of the second string from the first string, surrounded by quotes
+A program that queries two strings from the user. 
+The program then replaces all the occurrences of 
+the second string from the first string, surrounded by quotes
 
 '''
 # Request user inputs
