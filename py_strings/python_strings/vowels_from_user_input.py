@@ -1,5 +1,6 @@
 '''
-This is a simple program that queries a string from the user, and proceeds to output the total number of vowels in it (a,e,i,o,u).
+This is a simple program that queries a string from the user, 
+and proceeds to output the total number of vowels in it (a,e,i,o,u).
 
 -Assumumption: the string only contains lowercase characters
 
