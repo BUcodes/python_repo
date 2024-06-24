@@ -1,5 +1,6 @@
 '''
-Write a program that queries the user for strings A and B, and proceeds to output whether B is a permutation of A. To confirm this, the following conditions need to be met:
+Write a program that queries the user for strings A and B, and proceeds to output 
+whether B is a permutation of A. To confirm this, the following conditions need to be met:
 
 1. There is an equal amount of characters in A and B (or, the length of A is equal to length
 of B)
