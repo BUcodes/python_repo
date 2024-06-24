@@ -1,7 +1,8 @@
 '''
 A program that queries the user for a number and proceeds to output whether or not the number is a prime number.
-
-A prime number is a number that has exactly two natural number (number > 0) divisors: one and the number itself. Thus, the ten smallest prime numbers are 1, 2, 3, 5, 7, 11, 13, 17, 19 and 23 as any of the cannot be evenly divided by other numbers than one and the number itself.
+A prime number is a number that has exactly two natural number (number > 0) divisors: one and the number itself. 
+Thus, the ten smallest prime numbers are 1, 2, 3, 5, 7, 11, 13, 17, 19 and 23 as any of the cannot be evenly 
+divided by other numbers than one and the number itself.
 '''
 
 # Examines user input if a prime number or not
