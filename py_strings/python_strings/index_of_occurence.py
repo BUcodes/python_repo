@@ -1,5 +1,6 @@
 '''
-A program that queries the user for strings A and B. The program then proceeds to find the index of the second occurrence of string B in string A.
+A program that queries the user for strings A and B. The program then proceeds 
+to find the index of the second occurrence of string B in string A.
 
 '''
 
